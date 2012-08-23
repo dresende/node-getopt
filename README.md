@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/dresende/node-getopt.png)](http://travis-ci.org/dresende/node-getopt)
 ## API
 
 ### setopt(options, [arguments])
